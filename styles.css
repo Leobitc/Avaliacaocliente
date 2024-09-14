@@ -24,12 +24,12 @@ input[type="text"], select {
     width: calc(100% - 22px);
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid #ffffff;
+    border: 1px solid #615d5d;
     border-radius: 4px;
 }
 input[type="submit"] {
     background-color: #5cb85c;
-    color: #686262;
+    color: hsl(0, 1%, 38%);
     border: none;
     padding: 10px;
     border-radius: 4px;
