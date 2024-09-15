@@ -29,7 +29,7 @@ input[type="text"], select {
 }
 input[type="submit"] {
     background-color: #5cb85c;
-    color: hsl(0, 1%, 38%);
+    color: hsl(0, 0%, 100%);
     border: none;
     padding: 10px;
     border-radius: 4px;
